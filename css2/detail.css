@@ -1,0 +1,111 @@
+/*
+Template Name:Shop Cart
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************detail****************/
+.center_product{
+padding-top:20px;
+padding-bottom:30px; 
+ }
+.center_product_1li {
+border:1px solid #eee;
+padding:20px 10px;
+ }
+.bpi{
+border-bottom:1px solid #eee;
+padding-bottom:20px; 
+ }
+.center_blog_r img{
+ margin-top:20px;
+ }
+.center_blog_r ul {
+list-style:disc;
+margin-left:15px; 
+ }
+.center_blog_r1 ul li a{
+ background:#333;
+ }
+.center_blog_r1 ul li a i{
+ color:#fff;
+ }
+.center_blog_r1 h3{
+margin-top:30px;
+ }
+.center_blog_r1 .form-control{
+margin-top:15px;
+width:60%;
+height:48px; 
+ }
+.center_blog_r1 .form_text{
+height:148px; 
+ }
+.center_blog_r1 h6{
+font-weight:bold; 
+ }
+blockquote {
+margin-bottom: 0;
+border-color: #f6740a;
+margin-top: 20px;
+background: #fff;
+padding: 30px;
+}
+.blog_detail_l2 {
+padding: 30px 15px;
+box-shadow: 0 0 5px #ccc;
+margin-top: 30px;
+}
+.blog_detail_l2i1 {
+margin-top: 30px;
+border-bottom: 1px solid #eee;
+padding-bottom: 30px;
+}
+.blog_detail_l2i1 h4 a {
+font-size: 16px;
+}
+.blog_detail_l2i1 p {
+font-size: 14px;
+}
+.footer_2i1 .form-control{
+ height:50px;
+ }
+/*********************detail_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.center_product{
+text-align:center; 
+ }
+.center_product_1r  {
+margin-top:15px; 
+ }
+.center_blog_r ul{
+text-align:left; 
+ }
+.center_blog_r1 .form-control{
+width:100%; 
+ }
+.center_product p{
+text-align:left; 
+ }
+.blog_detail_l2 {
+text-align:left;  
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1280px) {
+
+ }
+
+
+
+
